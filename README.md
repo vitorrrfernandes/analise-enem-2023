@@ -95,15 +95,6 @@ Execute as células em ordem (`Run All` ou `Shift+Enter` em cada célula).
 
 ---
 
-## 📈 Próximos Passos
-
-- [ ] Aplicar testes estatísticos (ANOVA, teste t) para validar significância das diferenças
-- [ ] Cruzar as 3 variáveis simultaneamente (renda + UF + tipo de escola)
-- [ ] Analisar cada área do exame separadamente (CN, CH, LC, MT, Redação)
-- [ ] Criar dashboard interativo com Streamlit ou Power BI
-
----
-
 ## 👤 Autor
 
 **Vitor Fernandes**
